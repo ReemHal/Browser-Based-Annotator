@@ -3,7 +3,7 @@ A Web-based Tool for Image Annotation
 
 The image annotation tool is an online tool for labeling objects within RGBA images.
 The tool is based on the open source Js Segment Annotation Tool developed by Kota Yamaguchi [1](#ref1). It is browser-based and is, therefor, compatible with a wide variety of platforms.  The tool is designed for versatility and ease of use to allow users to efficiently label large numbers of images.
-For more detail on how to use the tool please refer to the [User Guide](https://gitlab.guelphrobolab.ca/lab-tools/js-segment-annotator/blob/master/UserGuide.pdf).
+For more detail on how to use the tool please refer to the [User Guide](https://gitlab.guelphrobolab.ca/lab-tools/js-segment-annotator/blob/master/Documentation/UserGuide.pdf).
 
 What’s new in this version
 ====================
@@ -184,7 +184,7 @@ reads the annotation files saved under the annotationURL directory and creates t
 Input arguments:
 - `data`: the list of full paths of the annotation files.
 - `id`: the annotation file number in the `data` list.
-- `pngData`: the meta data read from the 
+- `pngData`: the meta data read from the
 - `options`: an optional argument defining the `onerror` function to be executed if the an error event is triggered.
 
 
