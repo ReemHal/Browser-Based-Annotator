@@ -1,0 +1,11 @@
+*~
+.DS_Store
+
+data/annotations/
+data/images/
+\.idea/
+data/gigas\.json
+
+*.pyc
+
+data/gigas\.json

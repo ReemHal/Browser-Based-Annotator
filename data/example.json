@@ -1,0 +1,27 @@
+{
+  "labels": [
+    "background",
+    "skin",
+    "hair",
+    "dress",
+    "glasses",
+    "jacket",
+    "skirt",
+    "tomato_leaf",
+    "tomato_stem",
+    "tomato"
+  ],
+  "imageURLs": [
+    "data/images/1.jpg",
+    "data/images/2.jpg"
+  ],
+  "annotationURLs": [
+    "data/annotations/1.png",
+    "data/annotations/2.png"
+  ],
+  "annotateURL": "http://api.example.com/detector/annotate",
+  "indexInfo": {
+    "showIfAnnotatedFileFound": true,
+    "showIndexCount": true
+  }
+}
